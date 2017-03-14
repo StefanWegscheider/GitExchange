@@ -1,0 +1,2 @@
+2017-03-14 09:43:34,914 INFO Global [JavaFX Application Thread] Application started.
+2017-03-14 09:43:48,997 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
