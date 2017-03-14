@@ -32,6 +32,7 @@ public  class AskBox {
 	   
 	  
 	  // DialogPane dialogPane = alert.getDialogPane();
+	   //What ever
 	   //  dialogPane.setStyle("-fx-background-color: greenyellow;");
 	   
 	   alert.getDialogPane().getScene().getStylesheets().add("AIpackage/AskBox.css");
