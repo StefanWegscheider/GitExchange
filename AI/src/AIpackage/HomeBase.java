@@ -97,7 +97,7 @@ public class HomeBase extends Application {
             loader.setLocation(HomeBase.class.getResource("EditorLayout.fxml"));
             rootLayout = (BorderPane) loader.load();
             final HTMLEditor htmlEditor = new HTMLEditor();
-      //      EditorObject=htmlEditor;
+      //      EditorObject=htmlEditor;****
             Intermediate.seteObject(htmlEditor);//Html Editor Object Controller übergeben um später darauf zugreifen zu können
             rootLayout.setCenter(htmlEditor);//Lädt den Editor in den Center Bereich der Border Pane aus FXM
     //        htmlEditor.getStylesheets("htmlEditor.css");
