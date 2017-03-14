@@ -1,0 +1,45 @@
+   .button{
+	-fx-font-size: 13px;
+	-fx-font-weight: bold;
+	-fx-text-fill:black ;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+.alert.dialog-pane{
+    -fx-graphic: url("Achtung.png");   
+   -fx-border-color: lightblue;
+    -fx-border-width: 2;
+    -fx-border-radius: 10px;
+   	-fx-background-radius: 10.0;
+    fx-background-clip: content-box;	
+    }
+    
+.alert.confirmation.dialog-pane {
+    -fx-background-color:grey ;
+}
+.alert > *.button-bar > *.container{
+    -fx-background-color:grey ;
+}
+
+.alert > *.label.content{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+.alert:header *.header-panel{
+    -fx-background-color:lightblue ;
+}
+.alert:header *.header-panel *.label{
+    -fx-font-size: 14px;
+    -fx-font-style: italic;
+}
+ 

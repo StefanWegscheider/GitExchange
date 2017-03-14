@@ -1,0 +1,7 @@
+Sentence #1 (5 tokens):
+So what my dear????
+[Text=So CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=ADV]
+[Text=what CharacterOffsetBegin=3 CharacterOffsetEnd=7 PartOfSpeech=FM]
+[Text=my CharacterOffsetBegin=8 CharacterOffsetEnd=10 PartOfSpeech=FM]
+[Text=dear CharacterOffsetBegin=11 CharacterOffsetEnd=15 PartOfSpeech=FM]
+[Text=???? CharacterOffsetBegin=15 CharacterOffsetEnd=19 PartOfSpeech=FM]

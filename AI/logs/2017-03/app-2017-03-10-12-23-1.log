@@ -1,0 +1,4 @@
+2017-03-10 11:24:07,228 INFO Global [JavaFX Application Thread] Application started.
+2017-03-10 11:24:24,066 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

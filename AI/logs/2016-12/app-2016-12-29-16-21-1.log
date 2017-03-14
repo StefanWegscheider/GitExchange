@@ -1,0 +1,208 @@
+2016-12-29 12:50:09,598 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 12:50:11,335 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 12:50:11,337 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 12:50:11,337 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 12:50:26,462 INFO Global [main] Config data successfully read.
+2016-12-29 12:50:26,463 INFO Global [main] Config data successfully set.
+2016-12-29 12:50:34,743 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 12:50:36,360 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 12:50:36,365 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 12:50:36,365 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 12:51:00,155 INFO Global [main] Config data successfully read.
+2016-12-29 12:51:00,156 INFO Global [main] Config data successfully set.
+2016-12-29 12:58:27,121 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 12:58:28,770 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 12:58:28,772 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 12:58:28,772 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 12:58:30,872 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-29 12:58:30,872 INFO Global [JavaFX Application Thread] Application closed.
+2016-12-29 13:29:39,944 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 13:29:41,957 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 13:29:41,959 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 13:29:41,959 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 13:29:49,355 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-29 13:29:49,355 INFO Global [JavaFX Application Thread] Application closed.
+2016-12-29 13:33:37,004 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 13:33:39,807 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 13:33:39,811 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 13:33:39,811 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 13:33:39,835 INFO Global [main] Config data successfully read.
+2016-12-29 13:33:39,836 INFO Global [main] Config data successfully set.
+2016-12-29 13:33:52,757 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 13:33:55,354 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 13:33:55,359 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 13:33:55,359 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 13:33:55,382 INFO Global [main] Config data successfully read.
+2016-12-29 13:33:55,383 INFO Global [main] Config data successfully set.
+2016-12-29 14:01:15,400 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:01:17,025 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:01:17,029 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:01:17,029 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:02:52,444 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:02:54,503 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:02:54,504 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:02:54,504 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:02:54,525 INFO Global [main] Config data successfully read.
+2016-12-29 14:02:54,525 INFO Global [main] Config data successfully set.
+2016-12-29 14:03:30,956 INFO Global [main] Config data successfully read.
+2016-12-29 14:03:30,956 INFO Global [main] Config data successfully set.
+2016-12-29 14:04:37,059 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:04:38,748 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:04:38,749 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:04:38,750 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:04:38,779 INFO Global [main] Config data successfully read.
+2016-12-29 14:04:38,780 INFO Global [main] Config data successfully set.
+2016-12-29 14:04:46,826 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:04:49,125 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:04:49,126 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:04:49,126 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:04:49,154 INFO Global [main] Config data successfully read.
+2016-12-29 14:04:49,154 INFO Global [main] Config data successfully set.
+2016-12-29 14:06:13,665 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:06:15,379 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:06:15,381 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:06:15,381 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:06:46,890 INFO Global [main] Config data successfully read.
+2016-12-29 14:06:46,890 INFO Global [main] Config data successfully set.
+2016-12-29 14:10:09,973 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:10:11,749 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:10:11,752 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:10:11,752 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:10:51,462 INFO Global [main] Config data successfully read.
+2016-12-29 14:10:51,462 INFO Global [main] Config data successfully set.
+2016-12-29 14:11:06,967 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:11:08,577 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:11:08,580 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:11:08,580 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:11:22,304 INFO Global [main] Config data successfully read.
+2016-12-29 14:11:22,304 INFO Global [main] Config data successfully set.
+2016-12-29 14:12:11,123 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:12:12,633 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:12:12,636 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:12:12,636 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:12:26,804 INFO Global [main] Config data successfully read.
+2016-12-29 14:12:26,804 INFO Global [main] Config data successfully set.
+2016-12-29 14:12:56,078 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:12:57,707 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:12:57,710 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:12:57,711 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:13:19,901 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-29 14:13:19,902 INFO Global [JavaFX Application Thread] Application closed.
+2016-12-29 14:30:46,389 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:30:48,202 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:30:48,205 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:30:48,205 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:33:19,226 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:33:20,967 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:33:20,970 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:33:20,970 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:33:32,166 INFO Global [main] Config data successfully read.
+2016-12-29 14:33:32,167 INFO Global [main] Config data successfully set.
+2016-12-29 14:34:12,122 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:34:13,561 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:34:13,566 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:34:13,566 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:34:24,028 INFO Global [main] Config data successfully read.
+2016-12-29 14:34:24,028 INFO Global [main] Config data successfully set.
+2016-12-29 14:37:14,136 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-29 14:37:14,136 INFO Global [JavaFX Application Thread] Application closed.
+2016-12-29 14:44:18,351 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:44:20,566 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:44:20,568 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:44:20,568 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:44:20,598 INFO Global [main] Config data successfully read.
+2016-12-29 14:44:20,599 INFO Global [main] Config data successfully set.
+2016-12-29 14:45:24,090 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:45:25,571 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:45:25,573 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:45:25,574 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:45:32,383 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-29 14:45:32,383 INFO Global [JavaFX Application Thread] Application closed.
+2016-12-29 14:45:57,410 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:46:00,783 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:46:00,785 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:46:00,785 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:46:00,817 INFO Global [main] Config data successfully read.
+2016-12-29 14:46:00,817 INFO Global [main] Config data successfully set.
+2016-12-29 14:59:18,237 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 14:59:20,226 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 14:59:20,228 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 14:59:20,228 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 14:59:20,249 INFO Global [main] Config data successfully read.
+2016-12-29 14:59:20,249 INFO Global [main] Config data successfully set.
+2016-12-29 15:01:32,022 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 15:01:34,017 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 15:01:34,019 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 15:01:34,019 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 15:01:34,049 INFO Global [main] Config data successfully read.
+2016-12-29 15:01:34,050 INFO Global [main] Config data successfully set.
+2016-12-29 15:03:44,234 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 15:03:47,706 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 15:03:47,708 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 15:03:47,708 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 15:03:47,724 INFO Global [main] Config data successfully read.
+2016-12-29 15:03:47,724 INFO Global [main] Config data successfully set.
+2016-12-29 15:05:11,046 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 15:05:12,468 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 15:05:12,470 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 15:05:12,470 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 15:05:19,605 INFO Global [main] Config data successfully read.
+2016-12-29 15:05:19,606 INFO Global [main] Config data successfully set.
+2016-12-29 15:22:14,959 INFO Global [JavaFX Application Thread] Application started.
+2016-12-29 15:22:16,939 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-29 15:22:16,942 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-29 15:22:16,942 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-29 15:22:21,798 INFO Global [main] Config data successfully read.
+2016-12-29 15:22:21,798 INFO Global [main] Config data successfully set.

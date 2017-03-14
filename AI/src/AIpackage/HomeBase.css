@@ -1,0 +1,125 @@
+ .root {
+    -fx-background-color: transparent;
+    -fx-background-image: url("Brian.png");
+-fx-background-position: center center, 20% 80%, top left, bottom right;
+-fx-background-size: 50% 50%;
+-fx-background-repeat: no-repeat;
+}
+
+.background {
+     -fx-background-color: grey;
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+	-fx-border-radius: 10px;
+	-fx-background-radius: 10.0;
+	fx-background-clip: content-box;
+	-fx-background-insets: 2; 
+	}
+	
+	.body {
+    background-color: red; 
+    font-family: Arial, Helvetica, san-serif;
+         -fx-background-color: grey;
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+	-fx-border-radius: 10px;
+	-fx-background-radius: 10.0;
+	fx-background-clip: content-box;
+	-fx-background-insets: 2; 
+}
+.text-area .content{
+  -fx-background-color: grey;
+}
+	
+.menu-bar {
+    -fx-background-color: lightblue;
+    -fx-font-color: black;
+    -fx-font-size: 14px;
+	-fx-font-weight: bold;    
+	-fx-border-color: #e2e2e2;
+    -fx-border-width: 3;
+	-fx-border-radius: 10px;
+	-fx-background-insets: 3 3 3 3; 
+}
+
+.context-menu {
+    -fx-background-color: lightblue;
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-border-radius: 10px;
+   	-fx-background-radius: 10.0;
+    fx-background-clip: content-box;
+}
+/* 
+.html-editor {
+    -fx-base: lightblue; 
+    -fx-color: black;
+    -fx-text-color: black;
+    -fx-control-inner-background: white;
+    fx-control-background: white;
+    -fx-body-color: grey;
+    -fx-background-color: white;
+    -fx-background: white;
+    -fx-border-color: grey;
+    -fx-text-base-color: black;
+    -fx-text-background-color: black;
+    -fx-text-inner-color: white;
+    -fx-mark-color: grey;
+    -fx-text-fill: grey;
+}
+*/
+.html-editor .button, .html-editor .toggle-button{
+	-fx-background-color: lightblue;
+}
+
+.html-editor .foreground, html-editor .background{
+	-fx-color-label-visible: true;
+}
+
+.html-editor{
+   -fx-border-color: lightblue;
+    -fx-border-width: 2;
+    -fx-border-radius: 10px;
+   	-fx-background-radius: 10.0;
+    fx-background-clip: content-box;	
+}
+/* .menu-bar .label {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.menu .left-container {
+    -fx-background-color: black;
+}
+
+.text-field {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+
+/* 
+ * Metro style Push Button
+ * Author: Pedro Duque Vieira
+ * http://pixelduke.wordpress.com/2012/10/23/jmetro-windows-8-controls-on-java/
+ */
+
+   .button{
+	-fx-font-size: 13px;
+	-fx-font-weight: bold;
+	-fx-text-fill:black ;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+.button:default:hover {
+    -fx-background-color: derive(-fx-focus-color,30%);
+}

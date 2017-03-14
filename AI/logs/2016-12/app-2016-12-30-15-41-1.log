@@ -1,0 +1,6 @@
+2016-12-30 14:42:11,891 INFO Global [JavaFX Application Thread] Application started.
+2016-12-30 14:42:12,252 INFO Global [JavaFX Application Thread] Database connection established
+2016-12-30 14:42:12,266 INFO Global [JavaFX Application Thread] Config data successfully read.
+2016-12-30 14:42:12,266 INFO Global [JavaFX Application Thread] Config data successfully set.
+2016-12-30 14:42:16,612 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2016-12-30 14:42:16,612 INFO Global [JavaFX Application Thread] Application closed.

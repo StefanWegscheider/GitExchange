@@ -1,0 +1,14 @@
+2016-12-25 12:38:59,269 ERROR A.HomeBase [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-25 12:39:33,279 ERROR A.HomeBase [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-25 12:41:53,882 INFO A.HomeBase [JavaFX Application Thread] Application started
+2016-12-25 12:41:56,574 ERROR A.HomeBase [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-12-25 12:59:07,455 INFO Global [JavaFX Application Thread] Application started
+2016-12-25 12:59:16,881 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

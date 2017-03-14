@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" stylesheets="@HomeBase.css" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AIpackage.RootLayoutController">
+   <top>
+      <MenuBar stylesheets="@HomeBase.css" BorderPane.alignment="CENTER">
+        <menus>
+            <Menu mnemonicParsing="false" text="AIGui">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#handleAbout" text="About AIGui">
+                     <accelerator>
+                        <KeyCodeCombination alt="DOWN" code="A" control="UP" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@Web-Application-Icons-Set/PNG-24/Info.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></MenuItem>
+                  <MenuItem mnemonicParsing="false" onAction="#handleExit" text="Close AIGui">
+                     <accelerator>
+                        <KeyCodeCombination alt="DOWN" code="X" control="UP" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@Web-Application-Icons-Set/PNG-24/Exit.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></MenuItem>
+               </items></Menu> 
+          <Menu mnemonicParsing="false" text="Tools"> 
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#handleEditor" text="Editor">
+                     <accelerator>
+                        <KeyCodeCombination alt="DOWN" code="E" control="UP" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@Web-Application-Icons-Set/PNG-24/Modify.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></MenuItem>
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Analyze">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#OpenAnalyzeDirectinput" text="Analyze Text Input">
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@16x16-free-application-icons/png/16x16/Report.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></MenuItem>
+                  <MenuItem mnemonicParsing="false" onAction="#OpenAnalyzeFileinput" text="Analyze File Input">
+                     <graphic>
+                        <ImageView fitHeight="24.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@16x16-free-application-icons/png/16x16/Report.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </MenuItem>
+            </items>
+          </Menu>
+        </menus>
+         <styleClass>
+            <String fx:value="MenuItem" />
+            <String fx:value="Menu" />
+         </styleClass>
+         <effect>
+            <DropShadow />
+         </effect>
+      </MenuBar>
+   </top>
+   <styleClass>
+      <String fx:value="root" />
+      <String fx:value="background" />
+   </styleClass>
+   <effect>
+      <DropShadow />
+   </effect>
+</BorderPane>

@@ -1,0 +1,40 @@
+2017-03-13 13:50:52,716 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 13:50:57,540 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'test'
+2017-03-13 13:51:47,428 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 13:51:49,745 ERROR Global [JavaFX Application Thread] Database connection failed   :com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'test'
+2017-03-13 13:54:49,836 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 13:54:50,020 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:01:08,136 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:01:08,301 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:03:54,797 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:03:54,961 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:04:09,660 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:04:09,660 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:04:18,508 INFO Global [JavaFX Application Thread] Config file written successfully! 
+2017-03-13 14:04:18,509 INFO Global [JavaFX Application Thread] Application closed.
+2017-03-13 14:04:26,024 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:04:26,189 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:04:26,957 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:04:26,957 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:11:26,771 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:11:26,929 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:11:27,821 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:11:27,822 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:36:30,908 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:36:31,094 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:36:32,040 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:36:32,040 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:36:47,213 INFO Global [main] Config data successfully read.
+2017-03-13 14:36:47,214 INFO Global [main] Config data successfully set.
+2017-03-13 14:39:48,479 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:39:48,708 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:39:49,554 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:39:49,554 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:39:58,875 INFO Global [main] Config data successfully read.
+2017-03-13 14:39:58,877 INFO Global [main] Config data successfully set.
+2017-03-13 14:40:24,820 INFO Global [JavaFX Application Thread] Application started.
+2017-03-13 14:40:24,991 INFO Global [JavaFX Application Thread] Database connection established
+2017-03-13 14:40:25,885 INFO Global [JavaFX Application Thread] Config data successfully read.
+2017-03-13 14:40:25,885 INFO Global [JavaFX Application Thread] Config data successfully set.
+2017-03-13 14:40:33,690 INFO Global [main] Config data successfully read.
+2017-03-13 14:40:33,690 INFO Global [main] Config data successfully set.

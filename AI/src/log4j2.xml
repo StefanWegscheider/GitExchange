@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="TRACE" name="MyApp">
+    <Appenders>
+        <RollingFile name="RollingFile" fileName="logs/app.log"
+                     filePattern="logs/$${date:yyyy-MM}/app-%d{yyyy-MM-dd-HH-mm}-%i.log" immediateFlush="true">
+            <PatternLayout>
+                <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="60"/>
+                <SizeBasedTriggeringPolicy size="950 MB"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="DataRollingFile" fileName="logs/data.log"
+                     filePattern="logs/completed/data-%d{yyyy-MM-dd-HH-mm}-%i.log" immediateFlush="true">
+            <PatternLayout>
+                <Pattern>%m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="60"/>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+        </RollingFile>
+        <!--<Console name="Console" target="SYSTEM_OUT">-->
+        <!--<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>-->
+        <!--</Console>-->
+    </Appenders>
+    <Loggers>
+        <Logger name="com.myapp.xdf.mimic" level="WARN"/>
+        <Logger name="org.springframework" level="ERROR"/>
+        <Logger name="com.myapp.xdf.mimic.adapter.DataWriter" level="WARN" additivity="false">
+            <AppenderRef ref="DataRollingFile"/>
+        </Logger>
+        <Root level="INFO">
+            <AppenderRef ref="RollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

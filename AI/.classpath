@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="AIpackage/SqLAbfragen.java|AIpackage/src/main/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jfxrt.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/javax.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/ejml-0.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/jollyday.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/joda-time.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Logger Source/apache-log4j-2.7-bin/log4j-core-2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Logger Source/apache-log4j-2.7-bin/log4j-api-2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/protobuf.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/xom.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-corenlp-full-2016-10-31/stanford-corenlp-3.7.0"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/Stanford CoreNLP/3.7.0/stanford-german-corenlp-2016-10-31-models"/>
+	<classpathentry exported="true" kind="lib" path="/home/stefan/workspace/MyHomeBase/JDBCDriver/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
